@@ -37,7 +37,10 @@ And then you will have a amsiscanner.exe.
 # Usage
 
 To use this tool, simply provide the file name you wish you scan like this:
+
+```
 amsiscanner.exe C:\Users\bob\Desktop\example.exe
+```
 
 If you don't provide a file name, then amsiscanner.exe will scan an EICAR string
 (a special string value that is used to test AV engines, but completely harmless).
