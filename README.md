@@ -27,7 +27,10 @@ version to compile Meterpreter):
 https://www.visualstudio.com/downloads/
 
 Go ahead and open the Developer Command Prompt, and then do this to compile:
+
+```
 cl.exe /MT /EHa amsiscanner.cpp
+```
 
 And then you will have a amsiscanner.exe.
 
